@@ -1,4 +1,4 @@
-# NewsSentimentAnalysis
+# NewsSentimentAnalysis (ETSA: Economic Text Sentiment Analyzer)
 
 This notebook is based on [LSTM-Sentiment-Analysis](https://github.com/adeshpande3/LSTM-Sentiment-Analysis).
 Our paper "Enhanced news sentiment analysis using deep learning methods" is pubulished in [Journal of Computational Social Science](https://link.springer.com/article/10.1007/s42001-019-00035-x)
