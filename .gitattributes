@@ -5,3 +5,4 @@ wordVectors_glove_dim200.npy filter=lfs diff=lfs merge=lfs -text
 models.zip filter=lfs diff=lfs merge=lfs -text
 test.zip filter=lfs diff=lfs merge=lfs -text
 test_result.zip filter=lfs diff=lfs merge=lfs -text
+positiveDocs.zip filter=lfs diff=lfs merge=lfs -text
