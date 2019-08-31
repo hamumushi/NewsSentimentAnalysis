@@ -3,3 +3,4 @@ wordsList_glove_dim200.npy filter=lfs diff=lfs merge=lfs -text
 wordVectors_TR.npy filter=lfs diff=lfs merge=lfs -text
 wordVectors_glove_dim200.npy filter=lfs diff=lfs merge=lfs -text
 models.zip filter=lfs diff=lfs merge=lfs -text
+test.zip filter=lfs diff=lfs merge=lfs -text
